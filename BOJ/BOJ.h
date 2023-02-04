@@ -1,0 +1,1 @@
+int BOJ_10250(void);

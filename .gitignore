@@ -1,0 +1,8 @@
+.ccls-cache/
+.cache
+.DS_Store
+*.replit
+*.o
+*.nix
+main
+main-debug
