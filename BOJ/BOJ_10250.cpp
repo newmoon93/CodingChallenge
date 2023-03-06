@@ -2,11 +2,11 @@
 #include "BOJ.h"
 using namespace std;
 
-int t;
-int h, w, n;
-int room;
-
 int BOJ_10250(void) {
+  int t;
+  int h, w, n;
+  int room;
+
   cin >> t;
 
   for(int i = 0; i < t; i++) {
