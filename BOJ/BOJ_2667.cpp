@@ -37,7 +37,7 @@ void dfs(int x, int y) {
 
 }
 
-int BOJ_10250(void) {
+int BOJ_2667(void) {
     cin >> n;
 
     for (int i = 0; i < n; i++) {
