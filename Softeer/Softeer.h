@@ -1,0 +1,1 @@
+int HSAT_5_WP(void);
